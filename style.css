@@ -96,8 +96,8 @@ a:visited {
 }
 
 .texture-paper::before {
-  background: url("img/texture-paper.png");
-  background-size: 280px 280px;
+  background: url("img/texture-paper.webp");
+  background-size: 100%;
 }
 
 .b-parallax {
