@@ -1442,7 +1442,7 @@ img {
 .thumbnail a > img,
 .thumbnail > img {
   display: block;
-  max-width: 35vw;
+  max-width: 35%;
   height: auto;
   margin: auto;
 }
