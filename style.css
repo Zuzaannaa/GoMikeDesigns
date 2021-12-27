@@ -654,10 +654,17 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
   font-family: "helvetica";
   font-weight: 400;
+}
+
+a {
+  color: white;
+}
+
+p {
+  color: black;
 }
 
 .container {
