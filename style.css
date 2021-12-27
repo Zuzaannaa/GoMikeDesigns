@@ -200,7 +200,7 @@ a:visited {
 
 .d-bloc .panel,
 .l-bloc {
-  color: rgba(0, 0, 0, 0.5);
+  color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -236,7 +236,7 @@ a:visited {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-  color: rgba(0, 0, 0, 0.6);
+  color: black;
 }
 
 .d-bloc .panel .a-btn:hover,
