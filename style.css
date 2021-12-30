@@ -239,6 +239,11 @@ a:visited {
   color: black;
 }
 
+a {
+  padding: 15px;
+  margin: 10px;
+}
+
 .d-bloc .panel .a-btn:hover,
 .l-bloc .a-btn:hover,
 .l-bloc .navbar a:hover,
@@ -254,7 +259,7 @@ a:visited {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-  color: rgba(0, 0, 0, 1);
+  color: black;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
