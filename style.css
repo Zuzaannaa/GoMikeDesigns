@@ -327,8 +327,7 @@ a {
 
 .navbar .nav {
   padding-top: 2px;
-  margin-right: 16px;
-  float: right;
+  margin-right: 60px;
   z-index: 1;
 }
 
@@ -350,6 +349,7 @@ a {
 .navbar-toggle {
   margin: 10px 10px 0 0;
   border: 0px;
+  padding: 30px;
 }
 
 .navbar-toggle:hover {
